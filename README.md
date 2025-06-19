@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Mpho Makondelela! <br/>a Computer Science Student</h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+[instagram]: https://www.instagram.com/short_ified/
+
 
 <!--
-**MphoMakondelela/MphoMakondelela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mpho Makondelela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
