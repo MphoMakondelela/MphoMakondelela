@@ -8,6 +8,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
+[email]:mmakondelela95@gmail.com
 
 
 
@@ -24,7 +25,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning DevOps full-stack
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
