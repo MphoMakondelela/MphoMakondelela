@@ -8,7 +8,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-<a href="mmakondelela94@gmail.com">email</a>
+<a href="mailto:mmakondelela94@gmail.com">email</a>
 
 
 
