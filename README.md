@@ -5,10 +5,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MphoMakondelela&theme=tokyonight&no-frame=true&column=4" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=MphoMakondelela&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
