@@ -1,35 +1,35 @@
-<h1>Hi, I'm Mpho Makondelela! <br/>a Computer Science Student</h1>
+# 👋 Hi, I'm Mpho Makondelela
+### Computer Science Student & Aspiring Software Developer
 
-<h2>👨‍💻 Software Development Projects:</h2>
+---
 
+### 🛠️ Tech Stack & Skills
 
-- <b>Java</b>
-  - [java web application (html,servlets,jsp,ejbs and database)](https://github.com/MphoMakondelela/EduPulse-INT316-)
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | React, JavaScript, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Java, Node.js, JSP, Servlets, REST APIs |
+| **Databases** | MySQL |
+| **Tools & Version Control** | Git, GitHub, VS Code, Android Studio, Eclipse |
 
+---
 
-<h2> 🤳 Connect with me:</h2>
-<a href="mailto:mmakondelela94@gmail.com">email</a>
+### 🚀 Selected Projects
 
+* **[EduPulse-INT316](https://github.com/MphoMakondelela/EduPulse-INT316-)**: Full-stack Student Management System built using Java, Servlets, JSP, and MySQL database integration.
+* **[Portfolio Website](https://github.com/MphoMakondelela/portfolio-)**: Modern, responsive web developer portfolio built with HTML, Tailwind CSS, and JavaScript.
 
+---
 
-[<img align="left" alt="MphoMakondelela | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 🎓 Education & Certifications
 
+* **Diploma in Computer Science** — Tshwane University of Technology *(Expected Completion: March 2027)*
+* **Certifications:** Python Programming, Java Training Crash Course, Data Science Career Path
 
+---
 
-[instagram]: https://www.instagram.com/short_ified/
+### 📬 Connect with Me
 
-
-<!--
-**Mpho Makondelela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning DevOps full-stack
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Email:** mmakondelela94@gmail.com
+* **LinkedIn:** [Mpho Makondelela](https://www.linkedin.com/in/mpho-makondelela-b11364370)
+* **GitHub:** [MphoMakondelela](https://github.com/MphoMakondelela)
