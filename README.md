@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mpho Makondelela
+# 👋 Hi, my name is Mpho Makondelela
 ### Computer Science Student & Aspiring Software Developer
 
 ---
@@ -23,8 +23,17 @@
 
 ### 🎓 Education & Certifications
 
+#### 🏫 Education
 * **Diploma in Computer Science** — Tshwane University of Technology *(Expected Completion: March 2027)*
-* **Certifications:** Python Programming, Java Training Crash Course, Data Science Career Path
+* **National Senior Certificate** — Hanskekana High School *(Completed 2020)*
+
+#### 📜 Certifications & Courses
+* **Python Programming for Beginners** — Learn Python from Scratch
+* **Python Programming** — Python Bootcamp For Beginners
+* **Learn the Python Programming Language**
+* **Data Science Career Path Certificate** — Udemy
+* **Java Training Crash Course for Java Beginners** — Udemy
+* **JAVA OOP Certificate** — Udemy
 
 ---
 
