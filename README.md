@@ -40,9 +40,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MphoMakondelela&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=MphoMakondelela&theme=tokyonight&hide_border=true" width="100%" />
 </p>
-
 ---
 
 ### 📬 Connect with Me
