@@ -1,6 +1,16 @@
 # 👋 Hi, my name is Mpho Makondelela
 ### Computer Science Student & Aspiring Software Developer
 
+[🛠️ Skills](#️-tech-stack--skills) • [🚀 Projects](#-selected-projects) • [🎓 Education](#-education--certifications) • [📊 Stats](#-github-stats) • [📬 Contact](#-connect-with-me)
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MphoMakondelela&theme=tokyonight&no-frame=true&column=4" width="100%" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -36,12 +46,16 @@
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MphoMakondelela&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MphoMakondelela&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MphoMakondelela&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
 ---
 
 ### 📬 Connect with Me
