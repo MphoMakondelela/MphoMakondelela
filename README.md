@@ -1,11 +1,11 @@
-# 👋 Hi, my name is Mpho Makondelela
-### Computer Science Student & Aspiring Software Developer
+#  Hello, my name is Mpho Makondelela
+### Computer Science Student | Full-Stack & DevOps Engineer | Java • React • REST APIs • Docker
 
 [🛠️ Skills](#️-tech-stack--skills) • [🚀 Projects](#-selected-projects) • [🎓 Education](#-education--certifications) • [📊 Stats](#-github-stats) • [📬 Contact](#-connect-with-me)
 
 ---
 
-### 🔥 GitHub Streak
+### GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MphoMakondelela&theme=tokyonight&hide_border=true" width="100%" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Selected Projects
+###  Selected Projects
 
 - **[Fitness Genie](https://github.com/MphoMakondelela/fitness-genie)**: Developed an AI-powered fitness application using Next.js, TypeScript, Tailwind CSS, Supabase, and Google Gemini API.
   - Implemented **3 core application workflows**: user authentication, fitness profile setup, and AI-generated workout programmes.
@@ -51,7 +51,7 @@
 - **Diploma in Computer Science** — Tshwane University of Technology *(Expected Completion: March 2027)*
 - **National Senior Certificate** — Hanskekana High School *(Completed 2020)*
 
-#### 📜 Certifications & Courses
+####  Certifications & Courses
 - **Python Programming for Beginners** — Learn Python from Scratch
 - **Python Programming** — Python Bootcamp For Beginners
 - **Learn the Python Programming Language**
@@ -61,7 +61,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MphoMakondelela&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
@@ -73,7 +73,7 @@
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 
 - **Email:** mmakondelela94@gmail.com
 - **LinkedIn:** [Mpho Makondelela](https://www.linkedin.com/in/mpho-makondelela-b11364370)
